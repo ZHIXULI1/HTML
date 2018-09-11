@@ -1,5 +1,4 @@
 # HTML
-HTML Code
+HTML Code with Java Backend
 You can access at  
-http://scf.usc.edu/~zhixul/itp104/classpage.html
 www.subease.net
